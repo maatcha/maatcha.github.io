@@ -1,8 +1,11 @@
 body
 {
-margin: 40px, auto;
+margin: auto;
 max-width: 650px;
+line-height: 1.2;
 font-size: 18px;
+color: #444444;
+padding: 10px;
 font-family: " Times New Roman", Impact,  "Arial Black", Verdana, san-serif;
 }
 
@@ -13,10 +16,14 @@ font-style: italic;
 
 h1
 {
-font-size: 40px;
+font-size: 36px;
 font-weight: bold;
 }
 
+h1, h2, h3
+{
+line-height: 1.2
+}
 
 
 
