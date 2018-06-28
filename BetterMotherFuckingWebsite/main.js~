@@ -1,6 +1,10 @@
 alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please");
 
-function purpleBack(button) {
+
+const button1 = getElementById(button);
+button1.onclick = function();
+
+function purpleBack(getElementById("button")) {
 	var body = document.getElementById("body");
 	body.style.backgroundColor = "violet";
 }

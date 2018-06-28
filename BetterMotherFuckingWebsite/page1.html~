@@ -9,7 +9,7 @@ name="viewport" content="width=device-width, initial-scale=1">
 			<title>Better Mother Fucking Website</title>
 		</head>
 <body>
-		<BUTTON type="button" onclick="purpleBack();">Cliquez ici pour une belle surprise !!!</BUTTON>
+		<button type="button" onclick="purpleBack();">Cliquez ici pour une belle surprise !!!</button>
 		<header>
 			<h1>This is <em>still</em> a motherfucking website.</h1>
 			
