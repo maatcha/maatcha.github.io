@@ -1,3 +1,9 @@
+button
+{margin: auto;
+position: auto;
+font-weight: bold;
+}
+
 body
 {
 margin: 40px auto;
